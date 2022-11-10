@@ -1,0 +1,15 @@
+D:\1AmdarisAnsw\1module\6ArraysStrings\HM6\String\bin\Debug\net6.0\String.exe
+D:\1AmdarisAnsw\1module\6ArraysStrings\HM6\String\bin\Debug\net6.0\String.deps.json
+D:\1AmdarisAnsw\1module\6ArraysStrings\HM6\String\bin\Debug\net6.0\String.runtimeconfig.json
+D:\1AmdarisAnsw\1module\6ArraysStrings\HM6\String\bin\Debug\net6.0\String.dll
+D:\1AmdarisAnsw\1module\6ArraysStrings\HM6\String\bin\Debug\net6.0\String.pdb
+D:\1AmdarisAnsw\1module\6ArraysStrings\HM6\String\obj\Debug\net6.0\String.csproj.AssemblyReference.cache
+D:\1AmdarisAnsw\1module\6ArraysStrings\HM6\String\obj\Debug\net6.0\String.GeneratedMSBuildEditorConfig.editorconfig
+D:\1AmdarisAnsw\1module\6ArraysStrings\HM6\String\obj\Debug\net6.0\String.AssemblyInfoInputs.cache
+D:\1AmdarisAnsw\1module\6ArraysStrings\HM6\String\obj\Debug\net6.0\String.AssemblyInfo.cs
+D:\1AmdarisAnsw\1module\6ArraysStrings\HM6\String\obj\Debug\net6.0\String.csproj.CoreCompileInputs.cache
+D:\1AmdarisAnsw\1module\6ArraysStrings\HM6\String\obj\Debug\net6.0\String.dll
+D:\1AmdarisAnsw\1module\6ArraysStrings\HM6\String\obj\Debug\net6.0\refint\String.dll
+D:\1AmdarisAnsw\1module\6ArraysStrings\HM6\String\obj\Debug\net6.0\String.pdb
+D:\1AmdarisAnsw\1module\6ArraysStrings\HM6\String\obj\Debug\net6.0\String.genruntimeconfig.cache
+D:\1AmdarisAnsw\1module\6ArraysStrings\HM6\String\obj\Debug\net6.0\ref\String.dll
